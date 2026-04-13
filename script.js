@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = "AIzaSyBmZRQtzPR4Kr1ol6LZ_abVUgkNNFmZCus";
+const GEMINI_API_KEY = "AIzaSyAUwXb5VZOHDokW9AVni10JEsEPtRlbUS8";
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=" + GEMINI_API_KEY;
 
 let chats = [[]];
